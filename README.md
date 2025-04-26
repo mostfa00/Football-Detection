@@ -1,4 +1,6 @@
 # Football Match Object Detection
+![image](https://github.com/user-attachments/assets/b57a5b3b-f17f-4c7b-b390-1e389e0f5d6a)
+
 This project uses object detection to detect key elements in a football match:
 
 1 - Players
