@@ -30,25 +30,3 @@ Additionally, the project tracks a specific player's coordinates and saves them 
 3 - YOLO (or specify the model you used, e.g., YOLOv8)
 
 4 - Pandas (for handling CSV files)
-
-# How to Run
-1 - Clone this repository:
-
-git clone https://github.com/yourusername/football-object-detection.git
-
-cd football-object-detection
-
-2 - Install the dependencies:
-
-
-pip install -r requirements.txt
-
-3 - Run the detection script:
-
-python detect.py
-
-Check the output folder for:
-
-1 - Annotated videos/images.
-
-2 - player_coordinates.csv containing the tracked player's coordinates.
