@@ -33,14 +33,18 @@ Additionally, the project tracks a specific player's coordinates and saves them 
 1 - Clone this repository:
 
 git clone https://github.com/yourusername/football-object-detection.git
+
 cd football-object-detection
+
 2 - Install the dependencies:
 
 
 pip install -r requirements.txt
+
 3 - Run the detection script:
 
 python detect.py
+
 Check the output folder for:
 
 1 - Annotated videos/images.
